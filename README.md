@@ -1,4 +1,3 @@
-## Hello World, I'm Balya Khikam👋
 ![Balya Khikam](img/github-header-banner.png)
 
 <!--
